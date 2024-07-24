@@ -8,7 +8,9 @@
 
 💼 Porfolio : [Mi Porfolio](nicolasalejandrostebner.vercel.app)
 
-📫 Contacto: nicolas_stebner@hotmail.com
+👷 LinkedIn : [Mi perfil](https://linkedin.com/in/nicolas-stebner/)
+
+📫 Contacto : nicolas_stebner@hotmail.com
 
 ## 🔧 Tecnologías y Herramientas
 
