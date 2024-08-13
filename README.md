@@ -4,7 +4,7 @@
 
 💻 Desarrollador Full Stack (enfocado más en **Frontend**)
 
-🎓 Estudiante de Tecnicatura Programación Informática
+🎓 Técnico en Programación Informática
 
 💼 Porfolio : [Mi Porfolio](https://nicolasalejandrostebner.vercel.app)
 
