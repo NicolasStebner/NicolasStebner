@@ -2,7 +2,7 @@
 
 ## Sobre Mi
 
-💻 Desarrollador Full Stack (enfocado más en **Frontend**)
+💻 Desarrollador Full Stack (Enfocado más en el **Backend**)
 
 🎓 Técnico en Programación Informática
 
@@ -55,9 +55,8 @@
 
 ## 🌱 Actualmente aprendiendo
 
-- Mejores prácticas en React y TypeScript
-- Astro (Frontend)
-- Java (Backend)
+- Actualizando proyectos existentes (mejorando su código)
+- Cursos de Backend que validen mis conocimientos
 
 ---
 
